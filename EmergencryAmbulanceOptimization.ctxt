@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=EmergencryAmbulanceOptimization
+comment1.params=dist
+comment1.target=java.lang.String\ greedyEAROP(int[][])
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=dist
+comment2.target=java.lang.String\ dynamicProgrammingEAROP(int[][])
+comment3.params=pos\ mask\ dist\ memo\ VISITED_ALL\ paths
+comment3.target=int\ dynamicProgrammingEAROPHelper(int,\ int,\ int[][],\ int[][],\ int,\ java.lang.String[][])
+comment4.params=dist
+comment4.target=java.lang.String\ backtrackingEAROP(int[][])
+comment5.params=current\ visited\ count\ cost\ path\ dist
+comment5.target=void\ backtrackHelper(int,\ boolean[],\ int,\ int,\ java.util.List,\ int[][])
+comment6.params=dist
+comment6.target=java.lang.String\ divideAndConquerEAROP(int[][])
+comment7.params=current\ visited\ count\ cost\ path\ dist
+comment7.target=void\ divideAndConquerHelper(int,\ boolean[],\ int,\ int,\ java.util.List,\ int[][])
+comment8.params=arr
+comment8.target=java.lang.String\ insertionSort(int[])
+comment9.params=arr\ target
+comment9.target=int\ binarySearch(int[],\ int)
+numComments=11
